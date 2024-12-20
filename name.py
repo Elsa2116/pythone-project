@@ -1,0 +1,7 @@
+name = input ("enter your name: ")
+age = int (input("enter your age: "))
+sex = input ("enter your sex: ")
+id = int(input("enter your id: "))
+grade = float(input("enter yor grade"))
+department = input("enter your department: ")
+print(name,age,sex,id,grade,department)
